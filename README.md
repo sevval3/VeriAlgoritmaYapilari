@@ -1,5 +1,11 @@
 # VeriAlgoritmaYapilari
 
+#Proje 1
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
 [22,27,16,2,18,6] -> Insertion Sort
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -13,6 +19,12 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
+
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
 
 ## Link
 [patika.dev](www.patika.dev)
